@@ -34,12 +34,6 @@ I am an IT Project Manager and Technical Product Creator. I specialize in orches
   </table>
 </div>
 
-### 📊 Codebase Breakdown (Across All Portfolio Projects)
-Below is the aggregate language distribution computed directly from the source directories of all active project codebases:
-* **TypeScript & JavaScript** (43,100 lines of code)
-* **Dart & Flutter** (8,180 lines of code)
-* **Python** (1,752 lines of code)
-
 ---
 
 ## 🛠️ Tech Stack & Expertise
@@ -81,7 +75,22 @@ Below is the aggregate language distribution computed directly from the source d
 ## 🚀 Featured Projects
 *Listed in order of codebase size (largest to smallest)*
 
-### 📱 Morn & Eve (12.18 MB)
+### 🦖 TerraCatch (6.68 GB)
+> Pokémon-style real-world animal capture & stats game utilizing AI video analysis.
+- **Tech Stack:** `Flutter` `FastAPI (Python)` `OpenAI API (Lore Engine)` `Firebase Auth & Sync`
+- **Status:** Live Prototype / Matchmaking Hub 🟡
+- **Links:** 🌐 [Live Webapp](https://terracatch.online) | 🐙 [GitHub Repository](https://github.com/Skillith/Terracatch)
+<details>
+<summary><b>🔍 Key Features & Architecture</b></summary>
+
+- Real-time animal video identification.
+- Lore-driven AI stat profiles (7 base stats + movesets).
+- Evolution tokens, collection synchronization, and exhibition battles simulator.
+</details>
+
+<br/>
+
+### 📱 Morn & Eve (55.08 MB)
 > A daily spiritual companion app designed for Baha'i reading, daily cycles tracking, and service quest logging.
 - **Tech Stack:** `Flutter` `Dart` `Isar Database (Encrypted)` `Firebase Auth & Firestore`
 - **Status:** Active Development & Live on App Stores 🟡
@@ -97,22 +106,22 @@ Below is the aggregate language distribution computed directly from the source d
 
 <br/>
 
-### 🦖 TerraCatch (2.14 MB)
-> Pokémon-style real-world animal capture & stats game utilizing AI video analysis.
-- **Tech Stack:** `Flutter` `FastAPI (Python)` `OpenAI API (Lore Engine)` `Firebase Auth & Sync`
-- **Status:** Live Prototype / Matchmaking Hub 🟡
-- **Links:** 🌐 [Live Webapp](https://terracatch.online) | 🐙 [GitHub Repository](https://github.com/Skillith/Terracatch)
+### 🗺️ Wayfare Guide (8.74 MB)
+> Road-trip narration companion that reads geographical and cultural facts about the landscape as you drive.
+- **Tech Stack:** `Flutter` `Firebase` `Gemini API`
+- **Status:** Prototype (Alpha Testing) 🟡
+- **Links:** 🧪 [Closed Alpha Registration](https://github.com/Skillith/Wayfare-Guide) | 🐙 [GitHub Repository](https://github.com/Skillith/Wayfare-Guide)
 <details>
 <summary><b>🔍 Key Features & Architecture</b></summary>
 
-- Real-time animal video identification.
-- Lore-driven AI stat profiles (7 base stats + movesets).
-- Evolution tokens, collection synchronization, and exhibition battles simulator.
+- Real-time GPS coordinate listeners.
+- Gemini API narrator with context-rich folklore/geographical insights.
+- National Park adventure themed user interface.
 </details>
 
 <br/>
 
-### 🎙️ Dalil Notecard (0.46 MB)
+### 🎙️ Dalil Notecard (2.10 MB)
 > Hands-free tour guide assistant that transcribes speech in real-time and ticks off talking points automatically.
 - **Tech Stack:** `React` `TypeScript` `Speech Recognition API` `Firebase Auth & Firestore` `Google Gen AI`
 - **Status:** Deployed & Live 🟢
@@ -128,7 +137,22 @@ Below is the aggregate language distribution computed directly from the source d
 
 <br/>
 
-### 🧹 Mailbox Janitor (0.31 MB)
+### 🧭 Wayfare Logic (1.93 MB)
+> Multi-modal conversational travel routing engine that connects flights, rail, and regional bus itineraries.
+- **Tech Stack:** `React` `TypeScript` `Vite` `Firebase Cloud Functions` `Kiwi/Amadeus APIs`
+- **Status:** Design & Live Webapp 🔵
+- **Links:** 🌐 [Live Webapp](https://skillith.github.io/Wayfare-Logic) | 🐙 [GitHub Repository](https://github.com/Skillith/Wayfare-Logic)
+<details>
+<summary><b>🔍 Key Features & Architecture</b></summary>
+
+- Interactive Gemini 3.5 Flash intake interview loop.
+- Layover empathy hotel recommendation engine.
+- Persistent session memory and direct-booking deep links model.
+</details>
+
+<br/>
+
+### 🧹 Mailbox Janitor (0.52 MB)
 > Real-time AI Gmail cleaner agent that runs client-side to classify and clean out marketing clutter.
 - **Tech Stack:** `React 19` `TypeScript` `Vite` `Gemini 2.5 Flash` `Gmail REST API`
 - **Status:** Deployed & Production Ready 🟢
@@ -140,36 +164,6 @@ Below is the aggregate language distribution computed directly from the source d
 - BYOK (Bring Your Own Key) setup panel for user control.
 - Free 24/7 headless Google Apps Script trigger integrations.
 - Custom whitelisting and category-to-action rule mappings.
-</details>
-
-<br/>
-
-### 🗺️ Wayfare Guide (0.18 MB)
-> Road-trip narration companion that reads geographical and cultural facts about the landscape as you drive.
-- **Tech Stack:** `Flutter` `Firebase` `Gemini API`
-- **Status:** Prototype (Alpha Testing) 🟡
-- **Links:** 🧪 [Closed Alpha Registration](https://github.com/Skillith/Wayfare-Guide) | 🐙 [GitHub Repository](https://github.com/Skillith/Wayfare-Guide)
-<details>
-<summary><b>🔍 Key Features & Architecture</b></summary>
-
-- Real-time GPS coordinate listeners.
-- Gemini API narrator with context-rich folklore/geographical insights.
-- National Park adventure themed user interface.
-</details>
-
-<br/>
-
-### 🧭 Wayfare Logic (0.11 MB)
-> Multi-modal conversational travel routing engine that connects flights, rail, and regional bus itineraries.
-- **Tech Stack:** `React` `TypeScript` `Vite` `Firebase Cloud Functions` `Kiwi/Amadeus APIs`
-- **Status:** Design & Live Webapp 🔵
-- **Links:** 🌐 [Live Webapp](https://skillith.github.io/Wayfare-Logic) | 🐙 [GitHub Repository](https://github.com/Skillith/Wayfare-Logic)
-<details>
-<summary><b>🔍 Key Features & Architecture</b></summary>
-
-- Interactive Gemini 3.5 Flash intake interview loop.
-- Layover empathy hotel recommendation engine.
-- Persistent session memory and direct-booking deep links model.
 </details>
 
 ---
