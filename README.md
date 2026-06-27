@@ -1,44 +1,48 @@
 <div align="center">
-  <img src="./assets/banner.png" width="100%" alt="Skillith Banner" style="border-radius: 8px;" />
+  <img src="./assets/banner.png" width="60%" alt="Sam Ebrahimi Banner" style="border-radius: 8px;" />
   <br/><br/>
   
-  # Hi there, I'm Skillith! 👋
+  # Hi there, I'm Sam Ebrahimi! 👋
   
-  [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-  [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
-  [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-  [![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://deepmind.google/technologies/gemini)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-ebrahimi/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Skillith)
+  [![Website](https://img.shields.io/badge/Personal_Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://skillith.github.io)
   
-  <h4>Software Engineer & Product Creator</h4>
-  <p>I build intelligent, AI-augmented companion apps, real-time speech agents, and multi-modal travel routing engines.</p>
+  <h3>Technical Project Manager | AI-Powered Product Delivery | Cloud Migration</h3>
+  <p>I bridge the gap between business vision and technical execution, leveraging agentic AI and cloud infrastructure to deliver high-quality, fully functional products.</p>
 </div>
 
 <hr />
 
 ## 🧑‍💻 About Me
-I specialize in creating cross-platform mobile apps with **Flutter/Dart**, responsive Progressive Web Apps (PWAs) with **React/TypeScript**, and serverless backend integrations utilizing **Google Gemini AI**. I focus on offline-first architectures, encrypted local storage, and real-time AI assistance to create seamless user experiences.
+I am an IT Project Manager and Technical Product Creator. I specialize in orchestrating large-scale digital transformations, migrating enterprise systems to the cloud, and building AI-augmented software solutions. I use advanced agentic AI environments to design, build, and deploy cross-platform mobile apps (**Flutter/Dart**), robust web platforms (**React/TypeScript**), and secure serverless backend APIs (**FastAPI/Firebase**).
 
 ---
 
-## ⚡ GitHub Stats & Language Distribution
+## ⚡ GitHub Insights & Actual Codebase Distribution
 
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Skillith&show_icons=true&theme=radical&bg_color=0d1117&title_color=a855f7&icon_color=22d3ee&text_color=e2e8f0&border_color=334155" alt="GitHub Stats" width="95%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Skillith&show_icons=true&theme=radical&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=a855f7&icon_color=22d3ee&text_color=e2e8f0&border_color=334155" alt="GitHub Stats" width="95%" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skillith&layout=compact&theme=radical&bg_color=0d1117&title_color=a855f7&icon_color=22d3ee&text_color=e2e8f0&border_color=334155" alt="Top Languages" width="95%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skillith&layout=compact&theme=radical&count_private=true&bg_color=0d1117&title_color=a855f7&icon_color=22d3ee&text_color=e2e8f0&border_color=334155" alt="Top Languages" width="95%" />
       </td>
     </tr>
   </table>
 </div>
 
+### 📊 Codebase Breakdown (Across All Portfolio Projects)
+Below is the aggregate language distribution computed directly from the source directories of all active project codebases:
+* **TypeScript & JavaScript** (43,100 lines of code)
+* **Dart & Flutter** (8,180 lines of code)
+* **Python** (1,752 lines of code)
+
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack & Expertise
 
 <table>
   <tr>
@@ -48,25 +52,25 @@ I specialize in creating cross-platform mobile apps with **Flutter/Dart**, respo
         <li>Flutter / Dart</li>
         <li>React / TypeScript</li>
         <li>Vite / HTML5 / CSS3</li>
-        <li>PWA Architectures</li>
+        <li>Progressive Web Apps (PWAs)</li>
       </ul>
     </td>
     <td width="33.3%" valign="top">
-      <h4>⚙️ Backend & Database</h4>
+      <h4>⚙️ Backend & Cloud</h4>
       <ul>
-        <li>FastAPI / Python</li>
+        <li>FastAPI / Python / REST APIs</li>
         <li>Firebase Auth / Firestore</li>
-        <li>Cloud Functions / GCP</li>
-        <li>Isar DB (Encrypted)</li>
+        <li>GCP / Cloud Functions</li>
+        <li>Isar Database (Encrypted)</li>
       </ul>
     </td>
     <td width="33.3%" valign="top">
-      <h4>🧠 AI & Integrations</h4>
+      <h4>🧠 AI & Automation</h4>
       <ul>
-        <li>Google Gemini AI</li>
-        <li>OpenAI API</li>
-        <li>Speech Recognition API</li>
-        <li>Automated AI Agents</li>
+        <li>Google Gemini API</li>
+        <li>OpenAI API (Lore & Logic)</li>
+        <li>Web Speech APIs</li>
+        <li>Agentic SDLC Orchestration</li>
       </ul>
     </td>
   </tr>
@@ -75,30 +79,44 @@ I specialize in creating cross-platform mobile apps with **Flutter/Dart**, respo
 ---
 
 ## 🚀 Featured Projects
+*Listed in order of codebase size (largest to smallest)*
 
-Here is a showcase of my personal projects, ranging from production-ready web applications to mobile prototypes:
-
-### 🧹 Mailbox Janitor
-> Real-time AI Gmail cleaner agent that runs client-side to classify and clean out marketing clutter.
-- **Tech Stack:** `React 19` `TypeScript` `Vite` `Gemini 2.5 Flash` `Gmail REST API`
-- **Status:** Deployed & Production Ready 🟢
-- **Links:** 🌐 [Live Demo (Coming Soon)](#) | 🐙 [GitHub Repository (Coming Soon)](#)
+### 📱 Morn & Eve (12.18 MB)
+> A daily spiritual companion app designed for Baha'i reading, daily cycles tracking, and service quest logging.
+- **Tech Stack:** `Flutter` `Dart` `Isar Database (Encrypted)` `Firebase Auth & Firestore`
+- **Status:** Active Development & Live on App Stores 🟡
+- **Links:** 🤖 [Google Play Store](https://play.google.com/store/apps/details?id=com.skillith.morneve) | 🍎 [Apple App Store](https://apps.apple.com/app/morn-eve/id6503698064) | 🐙 [GitHub Repository](https://github.com/Skillith/Morn-Eve)
 <details>
 <summary><b>🔍 Key Features & Architecture</b></summary>
 
-- Interactive log terminal emulator for background processing.
-- BYOK (Bring Your Own Key) setup panel for user control.
-- Free 24/7 headless Google Apps Script trigger integrations.
-- Custom whitelisting and category-to-action rule mappings.
+- Morning/Evening cycle progression, habits tracking, and streaks.
+- Badi' calendar implementation (19 months, Intercalary days, Fast tracker).
+- Offline-first encrypted database using Isar.
+- Secure, progress-only cloud synchronization via Firebase.
 </details>
 
 <br/>
 
-### 🎙️ Dalil Notecard
+### 🦖 TerraCatch (2.14 MB)
+> Pokémon-style real-world animal capture & stats game utilizing AI video analysis.
+- **Tech Stack:** `Flutter` `FastAPI (Python)` `OpenAI API (Lore Engine)` `Firebase Auth & Sync`
+- **Status:** Live Prototype / Matchmaking Hub 🟡
+- **Links:** 🌐 [Live Webapp](https://terracatch.online) | 🐙 [GitHub Repository](https://github.com/Skillith/Terracatch)
+<details>
+<summary><b>🔍 Key Features & Architecture</b></summary>
+
+- Real-time animal video identification.
+- Lore-driven AI stat profiles (7 base stats + movesets).
+- Evolution tokens, collection synchronization, and exhibition battles simulator.
+</details>
+
+<br/>
+
+### 🎙️ Dalil Notecard (0.46 MB)
 > Hands-free tour guide assistant that transcribes speech in real-time and ticks off talking points automatically.
 - **Tech Stack:** `React` `TypeScript` `Speech Recognition API` `Firebase Auth & Firestore` `Google Gen AI`
 - **Status:** Deployed & Live 🟢
-- **Links:** 🌐 [Live Demo (Coming Soon)](#) | 🐙 [GitHub Repository (Coming Soon)](#)
+- **Links:** 🌐 [Live Webapp](https://skillith.github.io/DalilNotecard) | 🐙 [GitHub Repository](https://github.com/Skillith/DalilNotecard)
 <details>
 <summary><b>🔍 Key Features & Architecture</b></summary>
 
@@ -110,42 +128,27 @@ Here is a showcase of my personal projects, ranging from production-ready web ap
 
 <br/>
 
-### 📱 Morn & Eve
-> A spiritual companion app designed for Baha'i reading, daily cycles tracking, and service quest logging.
-- **Tech Stack:** `Flutter` `Dart` `Isar Database (Encrypted)` `Firebase Auth` `Firebase Firestore`
-- **Status:** Active Development 🟡
-- **Links:** 🌐 [Live Demo (Coming Soon)](#) | 🐙 [GitHub Repository](https://github.com/Skillith/Morn-Eve)
+### 🧹 Mailbox Janitor (0.31 MB)
+> Real-time AI Gmail cleaner agent that runs client-side to classify and clean out marketing clutter.
+- **Tech Stack:** `React 19` `TypeScript` `Vite` `Gemini 2.5 Flash` `Gmail REST API`
+- **Status:** Deployed & Production Ready 🟢
+- **Links:** 🌐 [Live Webapp](https://skillith.github.io/Mailbox-Janitor) | 🐙 [GitHub Repository](https://github.com/Skillith/Mailbox-Janitor)
 <details>
 <summary><b>🔍 Key Features & Architecture</b></summary>
 
-- Morning/Evening cycle progression, habits tracking, and streaks.
-- Badi' calendar implementation (19 months, Intercalary days).
-- Offline-first encrypted database using Isar.
-- Secure, progress-only cloud synchronization.
+- Interactive log terminal emulator for background processing.
+- BYOK (Bring Your Own Key) setup panel for user control.
+- Free 24/7 headless Google Apps Script trigger integrations.
+- Custom whitelisting and category-to-action rule mappings.
 </details>
 
 <br/>
 
-### 🦖 TerraCatch
-> Pokémon-style real-world animal capture & stats game utilizing AI video analysis.
-- **Tech Stack:** `Flutter` `FastAPI` `OpenAI API (Lore Engine)` `Firebase Auth & Sync`
-- **Status:** Prototype / Matchmaking Hub 🟡
-- **Links:** 🌐 [Live Demo (Coming Soon)](#) | 🐙 [GitHub Repository (Coming Soon)](#)
-<details>
-<summary><b>🔍 Key Features & Architecture</b></summary>
-
-- Real-time animal video identification.
-- Lore-driven AI stat profiles (7 base stats + movesets).
-- Evolution tokens, collection synchronization, and exhibition battles simulator.
-</details>
-
-<br/>
-
-### 🗺️ Wayfare Guide
+### 🗺️ Wayfare Guide (0.18 MB)
 > Road-trip narration companion that reads geographical and cultural facts about the landscape as you drive.
 - **Tech Stack:** `Flutter` `Firebase` `Gemini API`
-- **Status:** Prototype 🟡
-- **Links:** 🌐 [Live Demo (Coming Soon)](#) | 🐙 [GitHub Repository (Coming Soon)](#)
+- **Status:** Prototype (Alpha Testing) 🟡
+- **Links:** 🧪 [Closed Alpha Registration](https://github.com/Skillith/Wayfare-Guide) | 🐙 [GitHub Repository](https://github.com/Skillith/Wayfare-Guide)
 <details>
 <summary><b>🔍 Key Features & Architecture</b></summary>
 
@@ -156,11 +159,11 @@ Here is a showcase of my personal projects, ranging from production-ready web ap
 
 <br/>
 
-### 🧭 Wayfare Logic
+### 🧭 Wayfare Logic (0.11 MB)
 > Multi-modal conversational travel routing engine that connects flights, rail, and regional bus itineraries.
 - **Tech Stack:** `React` `TypeScript` `Vite` `Firebase Cloud Functions` `Kiwi/Amadeus APIs`
-- **Status:** Design & Architectural Phase 🔵
-- **Links:** 🌐 [Live Demo (Coming Soon)](#) | 🐙 [GitHub Repository (Coming Soon)](#)
+- **Status:** Design & Live Webapp 🔵
+- **Links:** 🌐 [Live Webapp](https://skillith.github.io/Wayfare-Logic) | 🐙 [GitHub Repository](https://github.com/Skillith/Wayfare-Logic)
 <details>
 <summary><b>🔍 Key Features & Architecture</b></summary>
 
@@ -175,6 +178,6 @@ Here is a showcase of my personal projects, ranging from production-ready web ap
 
 Feel free to reach out, collaborate on projects, or check out my work!
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-ebrahimi/)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Skillith)
 [![Website Badge](https://img.shields.io/badge/Personal_Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://skillith.github.io)
