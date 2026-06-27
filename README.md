@@ -59,7 +59,7 @@ I am an IT Project Manager and Technical Product Creator. I specialize in orches
 > A daily spiritual companion app designed for Baha'i reading, daily cycles tracking, and service quest logging.
 - **Tech Stack:** `Flutter` `Dart` `Isar Database (Encrypted)` `Firebase Auth & Firestore`
 - **Status:** Deployed & Live 🟢
-- **Links:** 🤖 [Google Play Store](https://play.google.com/store/apps/details?id=com.morneve.morn_and_eve&pcampaignid=web_share) | 🍎 [Apple App Store](https://apps.apple.com/us/app/morn-eve/id6778878060) | 🐙 [GitHub Repository](https://github.com/Skillith/Morn-Eve)
+- **Links:** 🤖 [Google Play Store](https://play.google.com/store/apps/details?id=com.morneve.morn_and_eve&pcampaignid=web_share) | 🍎 [Apple App Store](https://apps.apple.com/us/app/morn-eve/id6778878060) 
 <details>
 <summary><b>🔍 Key Features & Architecture</b></summary>
 
