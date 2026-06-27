@@ -1,8 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" width="60%" alt="Sam Ebrahimi Banner" style="border-radius: 8px;" />
-  <br/><br/>
-  
-  # Hi there, I'm Sam Ebrahimi! 👋
+  <h1>Hi there, I'm Sam Ebrahimi! 👋</h1>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-ebrahimi/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Skillith)
@@ -16,23 +13,6 @@
 
 ## 🧑‍💻 About Me
 I am an IT Project Manager and Technical Product Creator. I specialize in orchestrating large-scale digital transformations, migrating enterprise systems to the cloud, and building AI-augmented software solutions. I use advanced agentic AI environments to design, build, and deploy cross-platform mobile apps (**Flutter/Dart**), robust web platforms (**React/TypeScript**), and secure serverless backend APIs (**FastAPI/Firebase**).
-
----
-
-## ⚡ GitHub Insights & Actual Codebase Distribution
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Skillith&show_icons=true&theme=radical&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=a855f7&icon_color=22d3ee&text_color=e2e8f0&border_color=334155" alt="GitHub Stats" width="95%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skillith&layout=compact&theme=radical&count_private=true&bg_color=0d1117&title_color=a855f7&icon_color=22d3ee&text_color=e2e8f0&border_color=334155" alt="Top Languages" width="95%" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
@@ -73,28 +53,13 @@ I am an IT Project Manager and Technical Product Creator. I specialize in orches
 ---
 
 ## 🚀 Featured Projects
-*Listed in order of codebase size (largest to smallest)*
+*Listed in order of release status (production-ready and live apps first)*
 
-### 🦖 TerraCatch (6.68 GB)
-> Pokémon-style real-world animal capture & stats game utilizing AI video analysis.
-- **Tech Stack:** `Flutter` `FastAPI (Python)` `OpenAI API (Lore Engine)` `Firebase Auth & Sync`
-- **Status:** Live Prototype / Matchmaking Hub 🟡
-- **Links:** 🌐 [Live Webapp](https://terracatch.online) | 🐙 [GitHub Repository](https://github.com/Skillith/Terracatch)
-<details>
-<summary><b>🔍 Key Features & Architecture</b></summary>
-
-- Real-time animal video identification.
-- Lore-driven AI stat profiles (7 base stats + movesets).
-- Evolution tokens, collection synchronization, and exhibition battles simulator.
-</details>
-
-<br/>
-
-### 📱 Morn & Eve (55.08 MB)
+### 📱 Morn & Eve
 > A daily spiritual companion app designed for Baha'i reading, daily cycles tracking, and service quest logging.
 - **Tech Stack:** `Flutter` `Dart` `Isar Database (Encrypted)` `Firebase Auth & Firestore`
-- **Status:** Active Development & Live on App Stores 🟡
-- **Links:** 🤖 [Google Play Store](https://play.google.com/store/apps/details?id=com.skillith.morneve) | 🍎 [Apple App Store](https://apps.apple.com/app/morn-eve/id6503698064) | 🐙 [GitHub Repository](https://github.com/Skillith/Morn-Eve)
+- **Status:** Deployed & Live 🟢
+- **Links:** 🤖 [Google Play Store](https://play.google.com/store/apps/details?id=com.morneve.morn_and_eve&pcampaignid=web_share) | 🍎 [Apple App Store](https://apps.apple.com/us/app/morn-eve/id6778878060) | 🐙 [GitHub Repository](https://github.com/Skillith/Morn-Eve)
 <details>
 <summary><b>🔍 Key Features & Architecture</b></summary>
 
@@ -106,26 +71,26 @@ I am an IT Project Manager and Technical Product Creator. I specialize in orches
 
 <br/>
 
-### 🗺️ Wayfare Guide (8.74 MB)
-> Road-trip narration companion that reads geographical and cultural facts about the landscape as you drive.
-- **Tech Stack:** `Flutter` `Firebase` `Gemini API`
-- **Status:** Prototype (Alpha Testing) 🟡
-- **Links:** 🧪 [Closed Alpha Registration](https://github.com/Skillith/Wayfare-Guide) | 🐙 [GitHub Repository](https://github.com/Skillith/Wayfare-Guide)
+### 🦖 TerraCatch
+> Pokémon-style real-world animal capture & stats game utilizing AI video analysis.
+- **Tech Stack:** `Flutter` `FastAPI (Python)` `OpenAI API (Lore Engine)` `Firebase Auth & Sync`
+- **Status:** Deployed & Live 🟢
+- **Links:** 🌐 [Live Webapp](https://terracatch.online)
 <details>
 <summary><b>🔍 Key Features & Architecture</b></summary>
 
-- Real-time GPS coordinate listeners.
-- Gemini API narrator with context-rich folklore/geographical insights.
-- National Park adventure themed user interface.
+- Real-time animal video identification.
+- Lore-driven AI stat profiles (7 base stats + movesets).
+- Evolution tokens, collection synchronization, and exhibition battles simulator.
 </details>
 
 <br/>
 
-### 🎙️ Dalil Notecard (2.10 MB)
+### 🎙️ Dalil Notecard
 > Hands-free tour guide assistant that transcribes speech in real-time and ticks off talking points automatically.
 - **Tech Stack:** `React` `TypeScript` `Speech Recognition API` `Firebase Auth & Firestore` `Google Gen AI`
 - **Status:** Deployed & Live 🟢
-- **Links:** 🌐 [Live Webapp](https://skillith.github.io/DalilNotecard) | 🐙 [GitHub Repository](https://github.com/Skillith/DalilNotecard)
+- **Links:** 🌐 [Live Webapp](https://dalil-notecard.web.app/)
 <details>
 <summary><b>🔍 Key Features & Architecture</b></summary>
 
@@ -137,22 +102,7 @@ I am an IT Project Manager and Technical Product Creator. I specialize in orches
 
 <br/>
 
-### 🧭 Wayfare Logic (1.93 MB)
-> Multi-modal conversational travel routing engine that connects flights, rail, and regional bus itineraries.
-- **Tech Stack:** `React` `TypeScript` `Vite` `Firebase Cloud Functions` `Kiwi/Amadeus APIs`
-- **Status:** Design & Live Webapp 🔵
-- **Links:** 🌐 [Live Webapp](https://skillith.github.io/Wayfare-Logic) | 🐙 [GitHub Repository](https://github.com/Skillith/Wayfare-Logic)
-<details>
-<summary><b>🔍 Key Features & Architecture</b></summary>
-
-- Interactive Gemini 3.5 Flash intake interview loop.
-- Layover empathy hotel recommendation engine.
-- Persistent session memory and direct-booking deep links model.
-</details>
-
-<br/>
-
-### 🧹 Mailbox Janitor (0.52 MB)
+### 🧹 Mailbox Janitor
 > Real-time AI Gmail cleaner agent that runs client-side to classify and clean out marketing clutter.
 - **Tech Stack:** `React 19` `TypeScript` `Vite` `Gemini 2.5 Flash` `Gmail REST API`
 - **Status:** Deployed & Production Ready 🟢
@@ -164,6 +114,35 @@ I am an IT Project Manager and Technical Product Creator. I specialize in orches
 - BYOK (Bring Your Own Key) setup panel for user control.
 - Free 24/7 headless Google Apps Script trigger integrations.
 - Custom whitelisting and category-to-action rule mappings.
+</details>
+
+<br/>
+
+### 🧭 Wayfare Logic
+> Multi-modal conversational travel routing engine that connects flights, rail, and regional bus itineraries.
+- **Tech Stack:** `React` `TypeScript` `Vite` `Firebase Cloud Functions` `Kiwi/Amadeus APIs`
+- **Status:** Design & Live Webapp 🔵
+- **Links:** 🌐 [Live Webapp](https://skillith.github.io/Wayfare-Logic)
+<details>
+<summary><b>🔍 Key Features & Architecture</b></summary>
+
+- Interactive Gemini 3.5 Flash intake interview loop.
+- Layover empathy hotel recommendation engine.
+- Persistent session memory and direct-booking deep links model.
+</details>
+
+<br/>
+
+### 🗺️ Wayfare Guide
+> Road-trip narration companion that reads geographical and cultural facts about the landscape as you drive.
+- **Tech Stack:** `Flutter` `Firebase` `Gemini API`
+- **Status:** Prototype (Alpha Testing) 🟡
+<details>
+<summary><b>🔍 Key Features & Architecture</b></summary>
+
+- Real-time GPS coordinate listeners.
+- Gemini API narrator with context-rich folklore/geographical insights.
+- National Park adventure themed user interface.
 </details>
 
 ---
