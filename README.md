@@ -6,13 +6,21 @@
   [![Website](https://img.shields.io/badge/Personal_Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://skillith.github.io)
   
   <h3>Technical Project Manager | AI-Powered Product Delivery | Cloud Migration</h3>
-  <p>I bridge the gap between business vision and technical execution, leveraging agentic AI and cloud infrastructure to deliver high-quality, fully functional products.</p>
+  <p>I am a Technical Project Manager who bridges the gap between business vision and technical execution. Driven by a passion for AI-powered product delivery and cloud migration, I bring creative, functional products to life.</p>
 </div>
 
 <hr />
 
 ## 🧑‍💻 About Me
-I am an IT Project Manager and Technical Product Creator. I specialize in orchestrating large-scale digital transformations, migrating enterprise systems to the cloud, and building AI-augmented software solutions. I use advanced agentic AI environments to design, build, and deploy cross-platform mobile apps (**Flutter/Dart**), robust web platforms (**React/TypeScript**), and secure serverless backend APIs (**FastAPI/Firebase**).
+My journey to technical project management began in the social sector, driven by a deep desire to help people. I managed **Motivation United**, a project funded by the European Social Fund, where I was given full autonomy to help 80 jobseekers with migration backgrounds find employment. We successfully achieved all our goals six months ahead of schedule and well within budget.
+
+Building on this success, I founded a non-profit called **Talent2connect** to bridge the gap between corporate employers and grassroots employment organizations through major matchmaking events. During this time, I formalised my expertise by studying Project Management and Business Analysis.
+
+When COVID-19 hit, in-person matchmaking was no longer possible. I transitioned into the IT sector, working as a Business Analyst and Change Manager. Nine months later, I stepped into IT Project Management in the legal tech industry, focusing on information and contract management.
+
+Currently, I am working at the **Baha'i World Centre**, implementing a large-scale cloud migration to SharePoint, transitioning 40 departments (750+ people) ahead of schedule and within budget.
+
+My fascination with AI began in 2022, watching early GPT models emerge. When GPT-3.5 was released, I immediately integrated it into my life and workflow. Today, advanced models enable me to bring my own creative concepts to life—from publishing a children's book to developing projects like **TerraCatch**. This hands-on building process shapes how I work: whenever inspiration strikes, I map out the logic and bring it to life.
 
 ---
 
@@ -122,7 +130,6 @@ I am an IT Project Manager and Technical Product Creator. I specialize in orches
 > Multi-modal conversational travel routing engine that connects flights, rail, and regional bus itineraries.
 - **Tech Stack:** `React` `TypeScript` `Vite` `Firebase Cloud Functions` `Kiwi/Amadeus APIs`
 - **Status:** Design & Live Webapp 🔵
-- **Links:** 🌐 [Live Webapp](https://skillith.github.io/Wayfare-Logic)
 <details>
 <summary><b>🔍 Key Features & Architecture</b></summary>
 
