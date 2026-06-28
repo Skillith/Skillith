@@ -20,7 +20,7 @@ When COVID-19 hit, in-person matchmaking was no longer possible. I transitioned 
 
 Currently, I am working at the **Baha'i World Centre**, implementing a large-scale cloud migration to SharePoint, transitioning 40 departments (750+ people) ahead of schedule and within budget.
 
-My fascination with AI began in 2022, watching early GPT models emerge. When GPT-3.5 was released, I immediately integrated it into my life and workflow. Today, advanced models enable me to bring my own creative concepts to life—from publishing a children's book to developing projects like **TerraCatch**. This hands-on building process shapes how I work: whenever inspiration strikes, I map out the logic and bring it to life.
+My fascination with AI began in 2022, watching early GPT models emerge. When GPT-3.5 was released, I immediately integrated it into my life and workflow. Today, advanced models enable me to bring my own creative concepts to life—from publishing a children's book to developing projects like **TerraCatch**. This hands-on building process shapes how I work: whenever inspiration strikes, I map out the logic and bring it to life. Through this evolution, I realized I could still help people, but at a much larger scale—through the apps I build and the service I provide to my customers.
 
 ---
 

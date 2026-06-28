@@ -465,19 +465,27 @@ header {
 
 .project-links {
     display: flex;
-    gap: 1rem;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    row-gap: 0.5rem;
     align-items: center;
+    margin-top: auto;
+    width: 100%;
 }
 
-.project-link {
+.project-link, .project-link-disabled {
     display: inline-flex;
     align-items: center;
     gap: 0.35rem;
     text-decoration: none;
     font-size: 0.85rem;
     font-weight: 600;
-    color: var(--text-primary);
     transition: color var(--transition-speed);
+    white-space: nowrap;
+}
+
+.project-link {
+    color: var(--text-primary);
 }
 
 .project-link:hover {
@@ -485,7 +493,7 @@ header {
 }
 
 .project-link-disabled {
-    color: rgba(255, 255, 255, 0.2);
+    color: rgba(255, 255, 255, 0.25);
     cursor: not-allowed;
     pointer-events: none;
 }
